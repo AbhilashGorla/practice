@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+     
+<HEAD>
+<TITLE>Email Signature</TITLE>
+<META content="text/html; charset=utf-8" http-equiv="Content-Type">
+</HEAD>
+<BODY style="font-size: 10pt; font-family: Arial, sans-serif;">
+
+<table style="font-family:Arial, sans-serif; background: transparent !important;" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="width:140px; padding:0; text-align:center; vertical-align:middle;" valign="middle" width="140">
+<img width="220px" height="120px" border="0" style="border-radius:0px; border:0;"  img src="https://i.ibb.co/XD2fJ0Y/New-Logo.png" alt="cjss-technologies-logo-1">
+</td>
+<td style="border-bottom:2px solid; border-bottom-color:#2d2a29; padding:0; vertical-align:top;" valign="top"> 
+<table style="font-family:Arial, sans-serif; background: transparent !important;" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td style="font-family:Arial, sans-serif; color:#ed5a24; padding-bottom:6px; padding-top:0; padding-left:0; padding-right:0; vertical-align:top;" valign="top">
+
+ </td>
+ </tr>
+ <tr>
+ <td style="font-family:Arial, sans-serif; color:#444444; padding-bottom:6px; padding-top:0; padding-left:0; padding-right:0; line-height:18px; vertical-align:top;" valign="top">
+ <strong>
+<span style="font-family:Arial, sans-serif; color:#2d2a29; font-size:14pt; font-style:Arial;">
+%%FirstName%% %%LastName%%</span>
+</strong>
+<br>
+<span style="font-family:Arial, sans-serif; color:#2d2a29; font-size:10pt;">
+%%Title%%,    %%Department%%
+<br>
+</span>
+ <span style="font-family:Arial, sans-serif; color:#2d2a29; font-size:10pt;">
+ Email: %%Email%%
+ <br>
+ </span> 
+ <span style="font-family:Arial, sans-serif; color:#2d2a29; font-size:10pt;">
+ Mobile: +91-%%MobileNumber%%
+ <br>
+ </span>
+ <span style="font-family:Arial, sans-serif; color:#2d2a29; font-size:10pt;">
+CJSS Technologies Pvt. Ltd., 2nd Floor, Block C&amp;D, Vaishnavi Cynosure, Gachibowli, Hyderabad, Telangana, India 500032
+</span>
+ </td>
+ </tr>
+ <tr>
+ <td style="font-family:Arial, sans-serif; color:#444444;  padding-bottom:6px; padding-top:0; padding-left:0; padding-right:0; line-height:18px; vertical-align:top;" valign="top">
+
+</td>
+</tr>
+</tbody>
+</table>
+ </td>
+ </tr>
+ <tr>
+ <td style="font-family:Arial, sans-serif; width:140px; padding-top:6px; padding-left:0; padding-right:0; text-align:center; vertical-align:middle;" valign="middle" width="140"> <span>
+ <a href="https://in.linkedin.com/company/cjss-technologies" target="_lnblank" rel="noopener"><img border="0" width="16" style="border:0; height:16px; width:16px" src="https://www.mail-signatures.com/signature-generator/img/templates/photo2/ln.png">
+ </a>
+ &nbsp;</span>
+ </td>
+ <td style="padding-top:6px; padding-bottom:0; padding-left:0; padding-right:0; vertical-align:middle;" valign="middle">
+ <a href="http://www.cjsstechnologies.com" target="_blank" rel="noopener" style=" text-decoration:none;">
+ <span style="color:#ed5a24; font-family:Arial, sans-serif; font-size:10pt">
+ <span style="color:#2c2cdc; font-family:Arial, sans-serif; font-size:10pt">
+ www.cjsstechnologies.com</span>
+ </span>
+ </a>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </BODY>
+ 
